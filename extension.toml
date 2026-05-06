@@ -1,5 +1,5 @@
-id = "new-theme"
-name = "New Theme"
+id = "visual-studio-dark-theme-c-cpp"
+name = "Visual Studio Dark Theme C/C++"
 version = "0.0.1"
 schema_version = 1
 authors = ["Tré Dudman"]
